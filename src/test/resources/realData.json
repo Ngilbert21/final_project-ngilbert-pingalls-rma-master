@@ -1,0 +1,796 @@
+{"metadata": {
+    "total": 130,
+    "page": 0,
+    "per_page": 100
+  },
+  "results": [
+    {
+      "school.name": "National Graduate School of Quality Management",
+      "school.carnegie_undergrad": 11,
+      "school.region_id": 1,
+      "school.state_fips": 25
+    },
+    {
+      "school.name": "Marlboro College Graduate \u0026 Professional Studies",
+      "school.carnegie_undergrad": 5,
+      "school.region_id": 1,
+      "school.state_fips": 50
+    },
+    {
+      "school.name": "Yale University",
+      "school.carnegie_undergrad": 14,
+      "2015.cost.tuition.in_state": 47600,
+      "school.region_id": 1,
+      "school.state_fips": 9,
+      "2015.cost.tuition.out_of_state": 47600
+    },
+    {
+      "school.name": "Trinity College",
+      "school.carnegie_undergrad": 14,
+      "2015.cost.tuition.in_state": 50776,
+      "school.region_id": 1,
+      "school.state_fips": 9,
+      "2015.cost.tuition.out_of_state": 50776
+    },
+    {
+      "school.name": "Central Connecticut State University",
+      "school.carnegie_undergrad": 9,
+      "2015.cost.tuition.in_state": 9300,
+      "school.region_id": 1,
+      "school.state_fips": 9,
+      "2015.cost.tuition.out_of_state": 21570
+    },
+    {
+      "school.name": "Sacred Heart University",
+      "school.carnegie_undergrad": 12,
+      "2015.cost.tuition.in_state": 37170,
+      "school.region_id": 1,
+      "school.state_fips": 9,
+      "2015.cost.tuition.out_of_state": 37170
+    },
+    {
+      "school.name": "University of Bridgeport",
+      "school.carnegie_undergrad": 7,
+      "2015.cost.tuition.in_state": 30850,
+      "school.region_id": 1,
+      "school.state_fips": 9,
+      "2015.cost.tuition.out_of_state": 30850
+    },
+    {
+      "school.name": "Post University",
+      "school.carnegie_undergrad": 5,
+      "2015.cost.tuition.in_state": 16510,
+      "school.region_id": 1,
+      "school.state_fips": 9,
+      "2015.cost.tuition.out_of_state": 16510
+    },
+    {
+      "school.name": "University of Saint Joseph",
+      "school.carnegie_undergrad": 13,
+      "2015.cost.tuition.in_state": 36200,
+      "school.region_id": 1,
+      "school.state_fips": 9,
+      "2015.cost.tuition.out_of_state": 36200
+    },
+    {
+      "school.name": "Holy Apostles College and Seminary",
+      "school.carnegie_undergrad": 7,
+      "2015.cost.tuition.in_state": 7750,
+      "school.region_id": 1,
+      "school.state_fips": 9,
+      "2015.cost.tuition.out_of_state": 7750
+    },
+    {
+      "school.name": "University of Massachusetts-Boston",
+      "school.carnegie_undergrad": 9,
+      "2015.cost.tuition.in_state": 12682,
+      "school.region_id": 1,
+      "school.state_fips": 25,
+      "2015.cost.tuition.out_of_state": 29920
+    },
+    {
+      "school.name": "Hebrew College",
+      "school.carnegie_undergrad": 5,
+      "school.region_id": 1,
+      "school.state_fips": 25
+    },
+    {
+      "school.name": "Hellenic College-Holy Cross Greek Orthodox School of Theology",
+      "school.carnegie_undergrad": 11,
+      "2015.cost.tuition.in_state": 22490,
+      "school.region_id": 1,
+      "school.state_fips": 25,
+      "2015.cost.tuition.out_of_state": 22490
+    },
+    {
+      "school.name": "Mount Ida College",
+      "school.carnegie_undergrad": 11,
+      "2015.cost.tuition.in_state": 32300,
+      "school.region_id": 1,
+      "school.state_fips": 25,
+      "2015.cost.tuition.out_of_state": 32300
+    },
+    {
+      "school.name": "Lasell College",
+      "school.carnegie_undergrad": 12,
+      "2015.cost.tuition.in_state": 32000,
+      "school.region_id": 1,
+      "school.state_fips": 25,
+      "2015.cost.tuition.out_of_state": 32000
+    },
+    {
+      "school.name": "Lesley University",
+      "school.carnegie_undergrad": 9,
+      "2015.cost.tuition.in_state": 25095,
+      "school.region_id": 1,
+      "school.state_fips": 25,
+      "2015.cost.tuition.out_of_state": 25095
+    },
+    {
+      "school.name": "Worcester State University",
+      "school.carnegie_undergrad": 13,
+      "2015.cost.tuition.in_state": 8857,
+      "school.region_id": 1,
+      "school.state_fips": 25,
+      "2015.cost.tuition.out_of_state": 14937
+    },
+    {
+      "school.name": "Saint Joseph\u0027s College of Maine",
+      "school.carnegie_undergrad": 5,
+      "2015.cost.tuition.in_state": 32620,
+      "school.region_id": 1,
+      "school.state_fips": 23,
+      "2015.cost.tuition.out_of_state": 32620
+    },
+    {
+      "school.name": "Boston University",
+      "school.carnegie_undergrad": 14,
+      "2015.cost.tuition.in_state": 48436,
+      "school.region_id": 1,
+      "school.state_fips": 25,
+      "2015.cost.tuition.out_of_state": 48436
+    },
+    {
+      "school.name": "Fitchburg State University",
+      "school.carnegie_undergrad": 13,
+      "2015.cost.tuition.in_state": 9935,
+      "school.region_id": 1,
+      "school.state_fips": 25,
+      "2015.cost.tuition.out_of_state": 16015
+    },
+    {
+      "school.name": "Boston College",
+      "school.carnegie_undergrad": 14,
+      "2015.cost.tuition.in_state": 49324,
+      "school.region_id": 1,
+      "school.state_fips": 25,
+      "2015.cost.tuition.out_of_state": 49324
+    },
+    {
+      "school.name": "American International College",
+      "school.carnegie_undergrad": 11,
+      "2015.cost.tuition.in_state": 31870,
+      "school.region_id": 1,
+      "school.state_fips": 25,
+      "2015.cost.tuition.out_of_state": 31870
+    },
+    {
+      "school.name": "Emerson College",
+      "school.carnegie_undergrad": 15,
+      "2015.cost.tuition.in_state": 41052,
+      "school.region_id": 1,
+      "school.state_fips": 25,
+      "2015.cost.tuition.out_of_state": 41052
+    },
+    {
+      "school.name": "Assumption College",
+      "school.carnegie_undergrad": 14,
+      "2015.cost.tuition.in_state": 36160,
+      "school.region_id": 1,
+      "school.state_fips": 25,
+      "2015.cost.tuition.out_of_state": 36160
+    },
+    {
+      "school.name": "Westfield State University",
+      "school.carnegie_undergrad": 13,
+      "2015.cost.tuition.in_state": 8815,
+      "school.region_id": 1,
+      "school.state_fips": 25,
+      "2015.cost.tuition.out_of_state": 14895
+    },
+    {
+      "school.name": "Suffolk University",
+      "school.carnegie_undergrad": 13,
+      "2015.cost.tuition.in_state": 33934,
+      "school.region_id": 1,
+      "school.state_fips": 25,
+      "2015.cost.tuition.out_of_state": 33934
+    },
+    {
+      "school.name": "Massachusetts College of Liberal Arts",
+      "school.carnegie_undergrad": 11,
+      "2015.cost.tuition.in_state": 9475,
+      "school.region_id": 1,
+      "school.state_fips": 25,
+      "2015.cost.tuition.out_of_state": 18420
+    },
+    {
+      "school.name": "Merrimack College",
+      "school.carnegie_undergrad": 10,
+      "2015.cost.tuition.in_state": 37670,
+      "school.region_id": 1,
+      "school.state_fips": 25,
+      "2015.cost.tuition.out_of_state": 37670
+    },
+    {
+      "school.name": "Mount Holyoke College",
+      "school.carnegie_undergrad": 14,
+      "2015.cost.tuition.in_state": 43886,
+      "school.region_id": 1,
+      "school.state_fips": 25,
+      "2015.cost.tuition.out_of_state": 43886
+    },
+    {
+      "school.name": "Wheelock College",
+      "school.carnegie_undergrad": 10,
+      "2015.cost.tuition.in_state": 33835,
+      "school.region_id": 1,
+      "school.state_fips": 25,
+      "2015.cost.tuition.out_of_state": 33835
+    },
+    {
+      "school.name": "School of the Museum of Fine Arts at Tufts University",
+      "school.carnegie_undergrad": 11,
+      "2015.cost.tuition.in_state": 41228,
+      "school.region_id": 1,
+      "school.state_fips": 25,
+      "2015.cost.tuition.out_of_state": 41228
+    },
+    {
+      "school.name": "Pine Manor College",
+      "school.carnegie_undergrad": 10,
+      "2015.cost.tuition.in_state": 27050,
+      "school.region_id": 1,
+      "school.state_fips": 25,
+      "2015.cost.tuition.out_of_state": 27050
+    },
+    {
+      "school.name": "Saint John\u0027s Seminary",
+      "school.carnegie_undergrad": 11,
+      "2015.cost.tuition.in_state": 22650,
+      "school.region_id": 1,
+      "school.state_fips": 25,
+      "2015.cost.tuition.out_of_state": 22650
+    },
+    {
+      "school.name": "Maine College of Art",
+      "school.carnegie_undergrad": 11,
+      "2015.cost.tuition.in_state": 32290,
+      "school.region_id": 1,
+      "school.state_fips": 23,
+      "2015.cost.tuition.out_of_state": 32290
+    },
+    {
+      "school.name": "College of the Atlantic",
+      "school.carnegie_undergrad": 15,
+      "2015.cost.tuition.in_state": 42084,
+      "school.region_id": 1,
+      "school.state_fips": 23,
+      "2015.cost.tuition.out_of_state": 42084
+    },
+    {
+      "school.name": "University of New Hampshire-Main Campus",
+      "school.carnegie_undergrad": 14,
+      "2015.cost.tuition.in_state": 16986,
+      "school.region_id": 1,
+      "school.state_fips": 33,
+      "2015.cost.tuition.out_of_state": 30256
+    },
+    {
+      "school.name": "Franklin Pierce University",
+      "school.carnegie_undergrad": 10,
+      "2015.cost.tuition.in_state": 33320,
+      "school.region_id": 1,
+      "school.state_fips": 33,
+      "2015.cost.tuition.out_of_state": 33320
+    },
+    {
+      "school.name": "Granite State College",
+      "school.carnegie_undergrad": 5,
+      "2015.cost.tuition.in_state": 7257,
+      "school.region_id": 1,
+      "school.state_fips": 33,
+      "2015.cost.tuition.out_of_state": 8025
+    },
+    {
+      "school.name": "Salve Regina University",
+      "school.carnegie_undergrad": 14,
+      "2015.cost.tuition.in_state": 36740,
+      "school.region_id": 1,
+      "school.state_fips": 44,
+      "2015.cost.tuition.out_of_state": 36740
+    },
+    {
+      "school.name": "Rhode Island School of Design",
+      "school.carnegie_undergrad": 14,
+      "2015.cost.tuition.in_state": 45840,
+      "school.region_id": 1,
+      "school.state_fips": 44,
+      "2015.cost.tuition.out_of_state": 45840
+    },
+    {
+      "school.name": "Brown University",
+      "school.carnegie_undergrad": 14,
+      "2015.cost.tuition.in_state": 49346,
+      "school.region_id": 1,
+      "school.state_fips": 44,
+      "2015.cost.tuition.out_of_state": 49346
+    },
+    {
+      "school.name": "College of St Joseph",
+      "school.carnegie_undergrad": 11,
+      "2015.cost.tuition.in_state": 21900,
+      "school.region_id": 1,
+      "school.state_fips": 50,
+      "2015.cost.tuition.out_of_state": 21900
+    },
+    {
+      "school.name": "Johnson State College",
+      "school.carnegie_undergrad": 7,
+      "2015.cost.tuition.in_state": 11018,
+      "school.region_id": 1,
+      "school.state_fips": 50,
+      "2015.cost.tuition.out_of_state": 23714
+    },
+    {
+      "school.name": "Lyndon State College",
+      "school.carnegie_undergrad": 10,
+      "2015.cost.tuition.in_state": 11018,
+      "school.region_id": 1,
+      "school.state_fips": 50,
+      "2015.cost.tuition.out_of_state": 22418
+    },
+    {
+      "school.name": "Green Mountain College",
+      "school.carnegie_undergrad": 13,
+      "2015.cost.tuition.in_state": 35340,
+      "school.region_id": 1,
+      "school.state_fips": 50,
+      "2015.cost.tuition.out_of_state": 35340
+    },
+    {
+      "school.name": "Middlebury College",
+      "school.carnegie_undergrad": 14,
+      "2015.cost.tuition.in_state": 47828,
+      "school.region_id": 1,
+      "school.state_fips": 50,
+      "2015.cost.tuition.out_of_state": 47828
+    },
+    {
+      "school.name": "Johnson \u0026 Wales University-Providence",
+      "school.carnegie_undergrad": 11,
+      "2015.cost.tuition.in_state": 29566,
+      "school.region_id": 1,
+      "school.state_fips": 44,
+      "2015.cost.tuition.out_of_state": 29566
+    },
+    {
+      "school.name": "Northeastern University Professional Advancement Network",
+      "school.carnegie_undergrad": 5,
+      "school.region_id": 1,
+      "school.state_fips": 25
+    },
+    {
+      "school.name": "Springfield College-School of Professional and Continuing Studies",
+      "school.carnegie_undergrad": 6,
+      "school.region_id": 1,
+      "school.state_fips": 25
+    },
+    {
+      "school.name": "Johnson \u0026 Wales University-Online",
+      "school.carnegie_undergrad": 5,
+      "school.region_id": 1,
+      "school.state_fips": 44
+    },
+    {
+      "school.name": "New England College of Business and Finance",
+      "school.carnegie_undergrad": 5,
+      "2015.cost.tuition.in_state": 10525,
+      "school.region_id": 1,
+      "school.state_fips": 25,
+      "2015.cost.tuition.out_of_state": 10525
+    },
+    {
+      "school.name": "University of Connecticut",
+      "school.carnegie_undergrad": 14,
+      "2015.cost.tuition.in_state": 13366,
+      "school.region_id": 1,
+      "school.state_fips": 9,
+      "2015.cost.tuition.out_of_state": 34908
+    },
+    {
+      "school.name": "University of Hartford",
+      "school.carnegie_undergrad": 13,
+      "2015.cost.tuition.in_state": 36460,
+      "school.region_id": 1,
+      "school.state_fips": 9,
+      "2015.cost.tuition.out_of_state": 36460
+    },
+    {
+      "school.name": "Western Connecticut State University",
+      "school.carnegie_undergrad": 13,
+      "2015.cost.tuition.in_state": 9516,
+      "school.region_id": 1,
+      "school.state_fips": 9,
+      "2015.cost.tuition.out_of_state": 21786
+    },
+    {
+      "school.name": "University of New Haven",
+      "school.carnegie_undergrad": 12,
+      "2015.cost.tuition.in_state": 35650,
+      "school.region_id": 1,
+      "school.state_fips": 9,
+      "2015.cost.tuition.out_of_state": 35650
+    },
+    {
+      "school.name": "Quinnipiac University",
+      "school.carnegie_undergrad": 14,
+      "2015.cost.tuition.in_state": 42270,
+      "school.region_id": 1,
+      "school.state_fips": 9,
+      "2015.cost.tuition.out_of_state": 42270
+    },
+    {
+      "school.name": "Wesleyan University",
+      "school.carnegie_undergrad": 14,
+      "2015.cost.tuition.in_state": 49274,
+      "school.region_id": 1,
+      "school.state_fips": 9,
+      "2015.cost.tuition.out_of_state": 49274
+    },
+    {
+      "school.name": "Fairfield University",
+      "school.carnegie_undergrad": 14,
+      "2015.cost.tuition.in_state": 44875,
+      "school.region_id": 1,
+      "school.state_fips": 9,
+      "2015.cost.tuition.out_of_state": 44875
+    },
+    {
+      "school.name": "Connecticut College",
+      "school.carnegie_undergrad": 14,
+      "2015.cost.tuition.in_state": 49350,
+      "school.region_id": 1,
+      "school.state_fips": 9,
+      "2015.cost.tuition.out_of_state": 49350
+    },
+    {
+      "school.name": "Roger Williams University",
+      "school.carnegie_undergrad": 14,
+      "2015.cost.tuition.in_state": 31800,
+      "school.region_id": 1,
+      "school.state_fips": 44,
+      "2015.cost.tuition.out_of_state": 31800
+    },
+    {
+      "school.name": "University of Vermont",
+      "school.carnegie_undergrad": 14,
+      "2015.cost.tuition.in_state": 16768,
+      "school.region_id": 1,
+      "school.state_fips": 50,
+      "2015.cost.tuition.out_of_state": 39160
+    },
+    {
+      "school.name": "Champlain College",
+      "school.carnegie_undergrad": 9,
+      "2015.cost.tuition.in_state": 37536,
+      "school.region_id": 1,
+      "school.state_fips": 50,
+      "2015.cost.tuition.out_of_state": 37536
+    },
+    {
+      "school.name": "Saint Michael\u0027s College",
+      "school.carnegie_undergrad": 14,
+      "2015.cost.tuition.in_state": 40750,
+      "school.region_id": 1,
+      "school.state_fips": 50,
+      "2015.cost.tuition.out_of_state": 40750
+    },
+    {
+      "school.name": "Bennington College",
+      "school.carnegie_undergrad": 14,
+      "2015.cost.tuition.in_state": 48220,
+      "school.region_id": 1,
+      "school.state_fips": 50,
+      "2015.cost.tuition.out_of_state": 48220
+    },
+    {
+      "school.name": "University of Southern Maine",
+      "school.carnegie_undergrad": 9,
+      "2015.cost.tuition.in_state": 7796,
+      "school.region_id": 1,
+      "school.state_fips": 23,
+      "2015.cost.tuition.out_of_state": 18508
+    },
+    {
+      "school.name": "University of Maine",
+      "school.carnegie_undergrad": 12,
+      "2015.cost.tuition.in_state": 10610,
+      "school.region_id": 1,
+      "school.state_fips": 23,
+      "2015.cost.tuition.out_of_state": 28880
+    },
+    {
+      "school.name": "University of New England",
+      "school.carnegie_undergrad": 12,
+      "2015.cost.tuition.in_state": 34760,
+      "school.region_id": 1,
+      "school.state_fips": 23,
+      "2015.cost.tuition.out_of_state": 34760
+    },
+    {
+      "school.name": "Thomas College",
+      "school.carnegie_undergrad": 11,
+      "2015.cost.tuition.in_state": 24300,
+      "school.region_id": 1,
+      "school.state_fips": 23,
+      "2015.cost.tuition.out_of_state": 24300
+    },
+    {
+      "school.name": "Maine Maritime Academy",
+      "school.carnegie_undergrad": 13,
+      "2015.cost.tuition.in_state": 12788,
+      "school.region_id": 1,
+      "school.state_fips": 23,
+      "2015.cost.tuition.out_of_state": 25362
+    },
+    {
+      "school.name": "Bridgewater State University",
+      "school.carnegie_undergrad": 13,
+      "2015.cost.tuition.in_state": 8903,
+      "school.region_id": 1,
+      "school.state_fips": 25,
+      "2015.cost.tuition.out_of_state": 15043
+    },
+    {
+      "school.name": "Wentworth Institute of Technology",
+      "school.carnegie_undergrad": 14,
+      "2015.cost.tuition.in_state": 32500,
+      "school.region_id": 1,
+      "school.state_fips": 25,
+      "2015.cost.tuition.out_of_state": 32500
+    },
+    {
+      "school.name": "Western New England University",
+      "school.carnegie_undergrad": 12,
+      "2015.cost.tuition.in_state": 34030,
+      "school.region_id": 1,
+      "school.state_fips": 25,
+      "2015.cost.tuition.out_of_state": 34030
+    },
+    {
+      "school.name": "Northeastern University",
+      "school.carnegie_undergrad": 14,
+      "2015.cost.tuition.in_state": 45530,
+      "school.region_id": 1,
+      "school.state_fips": 25,
+      "2015.cost.tuition.out_of_state": 45530
+    },
+    {
+      "school.name": "Framingham State University",
+      "school.carnegie_undergrad": 13,
+      "2015.cost.tuition.in_state": 8700,
+      "school.region_id": 1,
+      "school.state_fips": 25,
+      "2015.cost.tuition.out_of_state": 14780
+    },
+    {
+      "school.name": "Curry College",
+      "school.carnegie_undergrad": 6,
+      "2015.cost.tuition.in_state": 36765,
+      "school.region_id": 1,
+      "school.state_fips": 25,
+      "2015.cost.tuition.out_of_state": 36765
+    },
+    {
+      "school.name": "Massachusetts Institute of Technology",
+      "school.carnegie_undergrad": 14,
+      "2015.cost.tuition.in_state": 46704,
+      "school.region_id": 1,
+      "school.state_fips": 25,
+      "2015.cost.tuition.out_of_state": 46704
+    },
+    {
+      "school.name": "Harvard University",
+      "school.carnegie_undergrad": 14,
+      "2015.cost.tuition.in_state": 45278,
+      "school.region_id": 1,
+      "school.state_fips": 25,
+      "2015.cost.tuition.out_of_state": 45278
+    },
+    {
+      "school.name": "Bay Path University",
+      "school.carnegie_undergrad": 11,
+      "2015.cost.tuition.in_state": 31785,
+      "school.region_id": 1,
+      "school.state_fips": 25,
+      "2015.cost.tuition.out_of_state": 31785
+    },
+    {
+      "school.name": "Endicott College",
+      "school.carnegie_undergrad": 12,
+      "2015.cost.tuition.in_state": 30492,
+      "school.region_id": 1,
+      "school.state_fips": 25,
+      "2015.cost.tuition.out_of_state": 30492
+    },
+    {
+      "school.name": "Gordon College",
+      "school.carnegie_undergrad": 14,
+      "2015.cost.tuition.in_state": 35386,
+      "school.region_id": 1,
+      "school.state_fips": 25,
+      "2015.cost.tuition.out_of_state": 35386
+    },
+    {
+      "school.name": "Brandeis University",
+      "school.carnegie_undergrad": 14,
+      "2015.cost.tuition.in_state": 49598,
+      "school.region_id": 1,
+      "school.state_fips": 25,
+      "2015.cost.tuition.out_of_state": 49598
+    },
+    {
+      "school.name": "Cambridge College",
+      "school.carnegie_undergrad": 5,
+      "2015.cost.tuition.in_state": 14004,
+      "school.region_id": 1,
+      "school.state_fips": 25,
+      "2015.cost.tuition.out_of_state": 14004
+    },
+    {
+      "school.name": "Boston Architectural College",
+      "school.carnegie_undergrad": 11,
+      "2015.cost.tuition.in_state": 20666,
+      "school.region_id": 1,
+      "school.state_fips": 25,
+      "2015.cost.tuition.out_of_state": 20666
+    },
+    {
+      "school.name": "Tufts University",
+      "school.carnegie_undergrad": 14,
+      "2015.cost.tuition.in_state": 50604,
+      "school.region_id": 1,
+      "school.state_fips": 25,
+      "2015.cost.tuition.out_of_state": 50604
+    },
+    {
+      "school.name": "Simmons College",
+      "school.carnegie_undergrad": 14,
+      "2015.cost.tuition.in_state": 37380,
+      "school.region_id": 1,
+      "school.state_fips": 25,
+      "2015.cost.tuition.out_of_state": 37380
+    },
+    {
+      "school.name": "College of Our Lady of the Elms",
+      "school.carnegie_undergrad": 7,
+      "2015.cost.tuition.in_state": 32280,
+      "school.region_id": 1,
+      "school.state_fips": 25,
+      "2015.cost.tuition.out_of_state": 32280
+    },
+    {
+      "school.name": "Smith College",
+      "school.carnegie_undergrad": 14,
+      "2015.cost.tuition.in_state": 46288,
+      "school.region_id": 1,
+      "school.state_fips": 25,
+      "2015.cost.tuition.out_of_state": 46288
+    },
+    {
+      "school.name": "Massachusetts Maritime Academy",
+      "school.carnegie_undergrad": 14,
+      "2015.cost.tuition.in_state": 7630,
+      "school.region_id": 1,
+      "school.state_fips": 25,
+      "2015.cost.tuition.out_of_state": 23436
+    },
+    {
+      "school.name": "Williams College",
+      "school.carnegie_undergrad": 14,
+      "2015.cost.tuition.in_state": 50070,
+      "school.region_id": 1,
+      "school.state_fips": 25,
+      "2015.cost.tuition.out_of_state": 50070
+    },
+    {
+      "school.name": "The New England Conservatory of Music",
+      "school.carnegie_undergrad": 10,
+      "2015.cost.tuition.in_state": 43055,
+      "school.region_id": 1,
+      "school.state_fips": 25,
+      "2015.cost.tuition.out_of_state": 43055
+    },
+    {
+      "school.name": "Southern New Hampshire University",
+      "school.carnegie_undergrad": 5,
+      "2015.cost.tuition.in_state": 30386,
+      "school.region_id": 1,
+      "school.state_fips": 33,
+      "2015.cost.tuition.out_of_state": 30386
+    },
+    {
+      "school.name": "Plymouth State University",
+      "school.carnegie_undergrad": 11,
+      "2015.cost.tuition.in_state": 13128,
+      "school.region_id": 1,
+      "school.state_fips": 33,
+      "2015.cost.tuition.out_of_state": 21208
+    },
+    {
+      "school.name": "New England College",
+      "school.carnegie_undergrad": 11,
+      "2015.cost.tuition.in_state": 34606,
+      "school.region_id": 1,
+      "school.state_fips": 33,
+      "2015.cost.tuition.out_of_state": 34606
+    },
+    {
+      "school.name": "Daniel Webster College",
+      "school.carnegie_undergrad": 11,
+      "2015.cost.tuition.in_state": 15630,
+      "school.region_id": 1,
+      "school.state_fips": 33,
+      "2015.cost.tuition.out_of_state": 15630
+    },
+    {
+      "school.name": "Eastern Connecticut State University",
+      "school.carnegie_undergrad": 13,
+      "2015.cost.tuition.in_state": 10016,
+      "school.region_id": 1,
+      "school.state_fips": 9,
+      "2015.cost.tuition.out_of_state": 22286
+    },
+    {
+      "school.name": "Albertus Magnus College",
+      "school.carnegie_undergrad": 11,
+      "2015.cost.tuition.in_state": 29650,
+      "school.region_id": 1,
+      "school.state_fips": 9,
+      "2015.cost.tuition.out_of_state": 29650
+    },
+    {
+      "school.name": "Southern Connecticut State University",
+      "school.carnegie_undergrad": 11,
+      "2015.cost.tuition.in_state": 9600,
+      "school.region_id": 1,
+      "school.state_fips": 9,
+      "2015.cost.tuition.out_of_state": 21870
+    },
+    {
+      "school.name": "University of Massachusetts-Amherst",
+      "school.carnegie_undergrad": 15,
+      "2015.cost.tuition.in_state": 14171,
+      "school.region_id": 1,
+      "school.state_fips": 25,
+      "2015.cost.tuition.out_of_state": 30504
+    },
+    {
+      "school.name": "University of Massachusetts-Lowell",
+      "school.carnegie_undergrad": 9,
+      "2015.cost.tuition.in_state": 13427,
+      "school.region_id": 1,
+      "school.state_fips": 25,
+      "2015.cost.tuition.out_of_state": 29125
+    },
+    {
+      "school.name": "Nichols College",
+      "school.carnegie_undergrad": 10,
+      "2015.cost.tuition.in_state": 33300,
+      "school.region_id": 1,
+      "school.state_fips": 25,
+      "2015.cost.tuition.out_of_state": 33300
+    }
+  ]
+}

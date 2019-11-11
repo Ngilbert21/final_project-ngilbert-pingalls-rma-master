@@ -1,0 +1,70 @@
+{
+  "collegeList": {
+    "pages": {
+      "key": {
+        "colleges": [
+          {
+            "name": "Ball State University",
+            "state": "Indiana",
+            "area": "Great Lakes (IL, IN, MI, OH, WI)",
+            "cost": "13369"
+          },
+          {
+            "name": "Purdue University",
+            "state": "Indiana",
+            "area": "Great Lakes (IL, IN, MI, OH, WI)",
+            "cost": "11693"
+          },
+          {
+            "name": "Indiana State University",
+            "state": "Indiana",
+            "area": "Great Lakes (IL, IN, MI, OH, WI)",
+            "cost": "10681"
+          },
+          {
+            "name": "University of Austin - Texas",
+            "state": "Texas",
+            "area": "Southwest (AZ, NM, OK, TX)",
+            "cost": "16010"
+          },
+          {
+            "name": "Boston Architectural College",
+            "state": "Massachusetts",
+            "area": "New England (CT, ME, MA, NH, RI, VT)",
+            "cost": "33112"
+          },
+          {
+            "name": "Pennsylvania State University",
+            "state": "Pennsylvania",
+            "area": "Mideast (DE, DC, MD, NJ, NY, PA)",
+            "cost": "25055"
+          },
+          {
+            "name": "University of Nevada - Reno",
+            "state": "Nevada",
+            "area": "Plains (IA, KS, MN, MO, NE, ND, SD)",
+            "cost": "15022"
+          },
+          {
+            "name": "Florida State University",
+            "state": "Florida",
+            "area": "Southeast (AL, AR, FL, GA, KY, LA, MS, NC, SC, TN, VA, WV)",
+            "cost": "16506"
+          },
+          {
+            "name": "Colorado Technical University",
+            "state": "Colorado",
+            "area": "Rocky Mountain (CO, ID, MT, UT, WY)",
+            "cost": "19856"
+          },
+          {
+            "name": "University of Hawaii at Manoa",
+            "state": "Hawaii",
+            "area": "Far West (AK, CA, HI, NV, OR, WA)",
+            "cost": "13520"
+          }
+        ]
+      }
+    }
+  }
+}
